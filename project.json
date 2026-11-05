@@ -1,0 +1,31 @@
+{
+  "id": "04",
+  "role": "Data Analyst",
+  "slug": "chargegrid-india-ev-infrastructure-intelligence",
+  "title": "ChargeGrid India: EV Infrastructure Intelligence",
+  "problem": "Analyse charging station utilisation, session duration, uptime, peak demand, energy delivered and location-level expansion opportunities.",
+  "market": "India",
+  "kind": "da",
+  "domain": "ev",
+  "stack": [
+    "SQL",
+    "Python",
+    "Pandas",
+    "Power BI",
+    "DAX",
+    "GeoPandas (optional)",
+    "Plotly"
+  ],
+  "kpis": [
+    "Charger utilisation",
+    "Station uptime",
+    "kWh delivered",
+    "Peak-hour demand",
+    "Revenue per connector"
+  ],
+  "impact": "Helps charging operators improve asset utilisation, plan maintenance and select locations for network expansion.",
+  "sources": [
+    "Bureau of Energy Efficiency / public EV policy context",
+    "Synthetic charger telemetry and charging sessions"
+  ]
+}
